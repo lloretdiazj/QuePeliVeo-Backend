@@ -10,10 +10,10 @@ url_imdb = "https://www.imdb.com/title/"
 
 headers = {
     "accept": "application/json",
-    "Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMzU2NjI4YzYwNTU5MThjMDBhZTczNWM0NmVjM2IxNSIsIm5iZiI6MTcyNDY5MzUyNC45NjMyNTgsInN1YiI6IjY2Y2NiYjg0ODE0YjMzM2EwYjIwNmQxZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.G9a4fLKo22B9UYc1z3gMTquMTPmFAtV7qcj3pWopalE"
+    "Authorization": ""
 }
 
-tmdb.API_KEY = '1356628c6055918c00ae735c46ec3b15'
+tmdb.API_KEY = ''
 
 search = tmdb.Search()
 
