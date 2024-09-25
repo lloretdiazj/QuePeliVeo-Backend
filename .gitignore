@@ -1,0 +1,4 @@
+.conda
+.mypy_cache
+requirements.txt
+entorno_qpv
